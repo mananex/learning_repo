@@ -1,3 +1,3 @@
 "use strict";
 
-console.log(8 >>> 16)
+console.log(8 >>> 16);
